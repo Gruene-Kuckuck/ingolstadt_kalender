@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:öffentliche/nicht öffentliche Sitzung des Ausschusses für Sozia
  les\, Gesundheit\, Stiftungen und Familien
 DTSTART;VALUE=DATE:20261008
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:92b17b6a63f43c81a16b6114d5860d6d@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -15,7 +15,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:nicht öffentliche Sitzung des Verwaltungsrates der VGI AöR
 DTSTART;VALUE=DATE:20261013
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:1785c1157ef59f327038b080e5d709b3@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:öffentlich/nicht öffentliche Sitzung der Verbandsversammlung des
   Zweckverbandes Verkehrsverbund Großraum Ingolstadt
 DTSTART;VALUE=DATE:20261013
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:3a738964baf01e4610284a08be19817e@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:öffentliche/nicht öffentliche Sitzung des Ausschusses für Kultu
  r und Bildung
 DTSTART;VALUE=DATE:20261013
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:b729f26d8a36b18a2524b4d6aaeec38d@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:nicht öffentliche Sitzung des Zweckverbandes Müllverwertungsanla
  ge Region Ingolstadt\, Verbandsausschuss
 DTSTART;VALUE=DATE:20261014
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:608007a1028dcafe42fec6ea192886ba@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadt
  entwicklung\, Bau\, Umwelt und Nachhaltigkeit
 DTSTART;VALUE=DATE:20261015
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:85d4589807e00e5340c8c037253fc219@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:öffentliche/nicht öffentliche Sitzung des Jugendparlamentes
 DTSTART;VALUE=DATE:20261016
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:80e0a13861d59857e97f9f1023b9b216@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:öffentliche/nicht öffentliche Sitzung des Verwaltungsrates der I
  FG Ingolstadt AöR
 DTSTART;VALUE=DATE:20261019
-DTSTAMP;VALUE=DATE-TIME:20261008T152544Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153922Z
 UID:3b5cde05c2c0011b7699b3988846549a@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
