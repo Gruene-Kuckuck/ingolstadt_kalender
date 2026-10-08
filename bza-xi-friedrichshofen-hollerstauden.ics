@@ -8,16 +8,17 @@ BEGIN:VEVENT
 SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
  lerstauden
 DTSTART;VALUE=DATE:20261027
-DTSTAMP;VALUE=DATE-TIME:20261008T154809Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170429Z
 UID:778eeb118f13ce8ed52bba2f5b264815@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
  lerstauden
-DTSTART;VALUE=DATE:20261208
-DTSTAMP;VALUE=DATE-TIME:20261008T154809Z
-UID:4a3a8cda07479627aa552ed4c439d50f@bezirksausschuesse-ingolstadt
+DTSTART;VALUE=DATE-TIME:20261208T150800
+DTEND;VALUE=DATE-TIME:20261208T170800
+DTSTAMP;VALUE=DATE-TIME:20261008T170429Z
+UID:dcb9b372c43b7ac053078922b73c8722@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 END:VCALENDAR
