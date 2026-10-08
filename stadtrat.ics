@@ -7,8 +7,17 @@ BEGIN:VEVENT
 SUMMARY:Stadtrat (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261029T130000
 DTEND;VALUE=DATE-TIME:20261029T150000
-DTSTAMP;VALUE=DATE-TIME:20261008T170757Z
-UID:507548d08a4d252d6f552b98a9b90347@kalender-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T190934Z
+UID:840d683cce47454de84774b554583f75@ratsinfo-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
+LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtrat (öffentlich/nicht öffentlich)
+DTSTART;VALUE=DATE-TIME:20261210T100000
+DTEND;VALUE=DATE-TIME:20261210T120000
+DTSTAMP;VALUE=DATE-TIME:20261008T190934Z
+UID:0f03c0340459a13c45dbf7f67d1448f5@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
