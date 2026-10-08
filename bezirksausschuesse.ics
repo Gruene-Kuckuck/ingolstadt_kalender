@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschüsse Ingolstadt
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses IV-Südost
+DTSTART;VALUE=DATE:20261008
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:a2d9403478bd7c8cbb1b4bf55e7c2de4@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Stadtteiltreff Augustin\, Stollstraße 2\, 85053 Ingolstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschuss XII-Münchener Straße
+DTSTART;VALUE=DATE:20261013
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:6403d1acf95028afccfb0eba03fc5b1f@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Kulturzentrum neun\, Elisabethstraße 9 a\, 85051 Ingolstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses I-Mitte
+DTSTART;VALUE=DATE:20261013
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:1f827d76764462cf0b8dc0e09a5973ec@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Gemeindesaal St. Matthäus\, Schrannenstraße 7\, 85049 Ingolstad
+ t
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses II-Nordwest
+DTSTART;VALUE=DATE:20261014
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:178bde90b5b9ea1e34006e4eddc36f0d@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Stadtteiltreff Piusviertel\, Pfitznerstraße 19a\, 85057 Ingolsta
+ dt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses X-Süd
+DTSTART;VALUE=DATE:20261022
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:b3c8e551a3b816ee55d722b3413b215e@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
+ lerstauden
+DTSTART;VALUE=DATE:20261027
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:778eeb118f13ce8ed52bba2f5b264815@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses VII-Etting
+DTSTART;VALUE=DATE:20261029
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:9884de16615c1768d28c1cd0912d3eeb@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
+ lerstauden
+DTSTART;VALUE=DATE:20261208
+DTSTAMP;VALUE=DATE-TIME:20261008T152547Z
+UID:4a3a8cda07479627aa552ed4c439d50f@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+END:VCALENDAR
