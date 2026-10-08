@@ -6,7 +6,7 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss VII-Etting (öffentlich)
 DTSTART;VALUE=DATE:20261029
-DTSTAMP;VALUE=DATE-TIME:20261008T170816Z
+DTSTAMP;VALUE=DATE-TIME:20261008T190949Z
 UID:f09a007e96d71b96a14428f885b45631@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
