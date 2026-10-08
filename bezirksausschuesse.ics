@@ -4,73 +4,71 @@ PRODID:-//Termine Ingolstadt//DE
 X-WR-CALNAME:Bezirksausschüsse Ingolstadt
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses IV-Südost
+SUMMARY:Bezirksausschuss IV-Südost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261008T190000
 DTEND;VALUE=DATE-TIME:20261008T210000
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:0983caa6cd22e90d21ae63c4d0051677@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:78593461296443c8193627bd7318724a@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Stadtteiltreff Augustin\, Stollstraße 2\, 85053 Ingolstadt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschuss XII-Münchener Straße
+SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T193000
 DTEND;VALUE=DATE-TIME:20261013T213000
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:b720f5c1d87786f5c3f164b3fc730d09@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:f407eaee340cb353e1da4a6d906babf7@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Kulturzentrum neun\, Elisabethstraße 9 a\, 85051 Ingolstadt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses I-Mitte
+SUMMARY:Bezirksausschuss I-Mitte (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T193000
 DTEND;VALUE=DATE-TIME:20261013T213000
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:216323112f753de5eab7422856eec1b3@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:b09a9671e9aab13d6835e259939ea9aa@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Gemeindesaal St. Matthäus\, Schrannenstraße 7\, 85049 Ingolstad
  t
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses II-Nordwest
+SUMMARY:Bezirksausschuss II-Nordwest (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261014T190000
 DTEND;VALUE=DATE-TIME:20261014T210000
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:b51a64b51f8b21d500b532bf7a255ca6@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:ea4303e9b8d9070a73527716e75aa58b@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Stadtteiltreff Piusviertel\, Pfitznerstraße 19a\, 85057 Ingolsta
  dt
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses X-Süd
+SUMMARY:Bezirksausschuss X-Süd (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261022T193000
 DTEND;VALUE=DATE-TIME:20261022T213000
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:a06ff9644ec17f1a162f3a84cafc982d@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:eaa16af8cf79fb5361512301aa0a9092@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
- lerstauden
+SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE:20261027
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:778eeb118f13ce8ed52bba2f5b264815@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:41e4391c770d69893cc0541b2276f323@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses VII-Etting
+SUMMARY:Bezirksausschuss VII-Etting (öffentlich)
 DTSTART;VALUE=DATE:20261029
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:9884de16615c1768d28c1cd0912d3eeb@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:f09a007e96d71b96a14428f885b45631@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
- lerstauden
+SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261208T150800
 DTEND;VALUE=DATE-TIME:20261208T170800
-DTSTAMP;VALUE=DATE-TIME:20261008T170416Z
-UID:dcb9b372c43b7ac053078922b73c8722@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170804Z
+UID:052281dad1245e2c7b8daa48eb0ba291@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 END:VCALENDAR
