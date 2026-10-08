@@ -6,7 +6,7 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:öffentliche Sitzung des Bezirksausschusses X-Süd
 DTSTART;VALUE=DATE:20261022
-DTSTAMP;VALUE=DATE-TIME:20261008T152557Z
+DTSTAMP;VALUE=DATE-TIME:20261008T153935Z
 UID:b3c8e551a3b816ee55d722b3413b215e@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
