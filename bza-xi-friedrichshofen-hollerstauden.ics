@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (Ingolstadt
+ )
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
+ lerstauden
+DTSTART;VALUE=DATE:20261027
+DTSTAMP;VALUE=DATE-TIME:20261008T152559Z
+UID:778eeb118f13ce8ed52bba2f5b264815@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses XI-Friedrichshofen/Hol
+ lerstauden
+DTSTART;VALUE=DATE:20261208
+DTSTAMP;VALUE=DATE-TIME:20261008T152559Z
+UID:4a3a8cda07479627aa552ed4c439d50f@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+END:VCALENDAR
