@@ -5,9 +5,10 @@ X-WR-CALNAME:Bezirksausschuss X-Süd (Ingolstadt)
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:öffentliche Sitzung des Bezirksausschusses X-Süd
-DTSTART;VALUE=DATE:20261022
-DTSTAMP;VALUE=DATE-TIME:20261008T154807Z
-UID:b3c8e551a3b816ee55d722b3413b215e@bezirksausschuesse-ingolstadt
+DTSTART;VALUE=DATE-TIME:20261022T193000
+DTEND;VALUE=DATE-TIME:20261022T213000
+DTSTAMP;VALUE=DATE-TIME:20261008T170428Z
+UID:a06ff9644ec17f1a162f3a84cafc982d@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 END:VCALENDAR
