@@ -4,11 +4,11 @@ PRODID:-//Termine Ingolstadt//DE
 X-WR-CALNAME:Bezirksausschuss I-Mitte (Ingolstadt)
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung des Bezirksausschusses I-Mitte
+SUMMARY:Bezirksausschuss I-Mitte (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T193000
 DTEND;VALUE=DATE-TIME:20261013T213000
-DTSTAMP;VALUE=DATE-TIME:20261008T170417Z
-UID:216323112f753de5eab7422856eec1b3@bezirksausschuesse-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T201934Z
+UID:b09a9671e9aab13d6835e259939ea9aa@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Gemeindesaal St. Matthäus\, Schrannenstraße 7\, 85049 Ingolstad
  t
