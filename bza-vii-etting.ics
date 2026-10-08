@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss VII-Etting (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses VII-Etting
+DTSTART;VALUE=DATE:20261029
+DTSTAMP;VALUE=DATE-TIME:20261008T152555Z
+UID:9884de16615c1768d28c1cd0912d3eeb@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+END:VCALENDAR
