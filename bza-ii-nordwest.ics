@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss II-Nordwest (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses II-Nordwest
+DTSTART;VALUE=DATE:20261014
+DTSTAMP;VALUE=DATE-TIME:20261008T152551Z
+UID:178bde90b5b9ea1e34006e4eddc36f0d@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Stadtteiltreff Piusviertel\, Pfitznerstraße 19a\, 85057 Ingolsta
+ dt
+END:VEVENT
+END:VCALENDAR
