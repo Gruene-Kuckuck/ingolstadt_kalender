@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss XII-Münchener Straße (öffentlich) (Ingols
+ tadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261013T193000
+DTEND;VALUE=DATE-TIME:20261013T213000
+DTSTAMP;VALUE=DATE-TIME:20261008T170824Z
+UID:f407eaee340cb353e1da4a6d906babf7@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Kulturzentrum neun\, Elisabethstraße 9 a\, 85051 Ingolstadt
+END:VEVENT
+END:VCALENDAR
