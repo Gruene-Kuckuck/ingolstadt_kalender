@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss IV-Südost (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:öffentliche Sitzung des Bezirksausschusses IV-Südost
+DTSTART;VALUE=DATE:20261008
+DTSTAMP;VALUE=DATE-TIME:20261008T152553Z
+UID:a2d9403478bd7c8cbb1b4bf55e7c2de4@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Stadtteiltreff Augustin\, Stollstraße 2\, 85053 Ingolstadt
+END:VEVENT
+END:VCALENDAR
