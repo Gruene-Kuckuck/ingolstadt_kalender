@@ -8,27 +8,27 @@ SUMMARY:Ausschuss für Soziales\, Gesundheit\, Stiftungen und Familien (ö
  ffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261008T160000
 DTEND;VALUE=DATE-TIME:20261008T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:9f1283325d63f273b0e6c3d3b512288c@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:nicht öffentliche Sitzung des Verwaltungsrates der VGI AöR
+SUMMARY:Verwaltungsrat der VGI AöR (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T100000
 DTEND;VALUE=DATE-TIME:20261013T120000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:00c9cdfd0367f74b3a33acd831dce292@ratsinfo-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:d95d0cf56b181124310ea35e034532c1@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentlich/nicht öffentliche Sitzung der Verbandsversammlung des
-  Zweckverbandes Verkehrsverbund Großraum Ingolstadt
+SUMMARY:Verbandsversammlung des Zweckverbandes Verkehrsverbund Großraum I
+ ngolstadt (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T100000
 DTEND;VALUE=DATE-TIME:20261013T120000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:8992fc181fe583ca2721bed6a8a4dc26@ratsinfo-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:3c4bd3e45c82a29d971066ef6a403640@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
@@ -36,18 +36,18 @@ BEGIN:VEVENT
 SUMMARY:Ausschuss für Kultur und Bildung (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T160000
 DTEND;VALUE=DATE-TIME:20261013T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:6b338ce50b3ddd727b6578764ec11bff@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:nicht öffentliche Sitzung des Zweckverbandes Müllverwertungsanla
- ge Region Ingolstadt\, Verbandsausschuss
+SUMMARY:Zweckverband Müllverwertungsanlage Region Ingolstadt\, Verbandsau
+ sschuss (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261014T093000
 DTEND;VALUE=DATE-TIME:20261014T113000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:bc05714da94e1d1edf55e79467633109@ratsinfo-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:a6d172fac4da7f23097aa83bff7b8dcf@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
 BEGIN:VEVENT
@@ -55,7 +55,7 @@ SUMMARY:Ausschuss für Stadtentwicklung\, Bau\, Umwelt und Nachhaltigkeit
  (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261015T160000
 DTEND;VALUE=DATE-TIME:20261015T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:3149440b0f2c6e02485675b5ec78b898@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Jugendparlament (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261016T173000
 DTEND;VALUE=DATE-TIME:20261016T193000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:71a7610abbdedca2cdd63d440339dbb4@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -74,7 +74,7 @@ SUMMARY:Verwaltungsrat der IFG Ingolstadt AöR (öffentlich/nicht öffentl
  ich)
 DTSTART;VALUE=DATE-TIME:20261019T160000
 DTEND;VALUE=DATE-TIME:20261019T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:438b9eaa34593176db301c7e66444fa0@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -84,25 +84,25 @@ SUMMARY:Ausschuss für Sport\, Veranstaltungen und Freizeit (öffentlich/n
  icht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261006T160000
 DTEND;VALUE=DATE-TIME:20261006T180700
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:81b76f2c9d907e63c70edbf3ad08b91d@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:nicht öffentliche Sitzung des Aufsichtsrates der Digitales Gründ
- erzentrum der Region Ingolstadt GmbH
+SUMMARY:Aufsichtsrat der Digitales Gründerzentrum der Region Ingolstadt G
+ mbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261007T170000
 DTEND;VALUE=DATE-TIME:20261007T190000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:1d93a7b264691328013045b3962b2913@kalender-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:9b6909b01ca855b6521b659d5f11b571@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Runden Tisches Fahrrad (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261007T170000
 DTEND;VALUE=DATE-TIME:20261007T190000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:dae476eeb601ceba55ee5671a4ef1720@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -112,18 +112,17 @@ SUMMARY:Aufsichtsrat der Gemeinnützigen Wohnungsbaugesellschaft Ingolstad
  t GmbH (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261021T090000
 DTEND;VALUE=DATE-TIME:20261021T110000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:5d0c043c63763d01a4bb231ec2b7ea7c@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Gemeinschaftsraum des Bürogebäudes\, Minucciweg 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:nicht öffentliche Sitzung des Aufsichtsrates der Klinikum Ingolst
- adt GmbH
+SUMMARY:Aufsichtsrat der Klinikum Ingolstadt GmbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261021T140000
 DTEND;VALUE=DATE-TIME:20261021T160000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:4df744bc82e7259fedb0bec94081d363@kalender-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:c2a40884784af9bf387a12449fece34b@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +130,7 @@ SUMMARY:Ausschuss für Finanzen und Personal (öffentlich/nicht öffentlic
  h)
 DTSTART;VALUE=DATE-TIME:20261022T160000
 DTEND;VALUE=DATE-TIME:20261022T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:e6d47f151b8c0af9f3e04c2f3ab860e1@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -141,18 +140,17 @@ SUMMARY:Kommission für Brand- und Katastrophenschutz sowie Rettungswesen
  (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261027T160000
 DTEND;VALUE=DATE-TIME:20261027T180000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
 UID:c7cc844d2037bc26f2264ba6a76da2f5@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:öffentliche Sitzung der Kommission Quartiersentwicklung Piusviert
- el
+SUMMARY:Kommission Quartiersentwicklung Piusviertel (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261028T173000
 DTEND;VALUE=DATE-TIME:20261028T193000
-DTSTAMP;VALUE=DATE-TIME:20261008T170414Z
-UID:7080532c25427b41cfe29c577d40b457@kalender-ingolstadt
+DTSTAMP;VALUE=DATE-TIME:20261008T170800Z
+UID:bbfae29f1d9ff14389582a81a5699dea@kalender-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
 END:VCALENDAR
