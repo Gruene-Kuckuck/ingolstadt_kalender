@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss I-Mitte (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T193000
 DTEND;VALUE=DATE-TIME:20261013T213000
-DTSTAMP;VALUE=DATE-TIME:20261008T201934Z
+DTSTAMP;VALUE=DATE-TIME:20261009T050015Z
 UID:b09a9671e9aab13d6835e259939ea9aa@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Gemeindesaal St. Matthäus\, Schrannenstraße 7\, 85049 Ingolstad
