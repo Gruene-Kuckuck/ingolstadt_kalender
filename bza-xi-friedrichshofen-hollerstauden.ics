@@ -7,14 +7,14 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE:20261027
-DTSTAMP;VALUE=DATE-TIME:20261010T050022Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050022Z
 UID:41e4391c770d69893cc0541b2276f323@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE:20261208
-DTSTAMP;VALUE=DATE-TIME:20261010T050022Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050022Z
 UID:3e4719832b65b95341d8ac176e4e58ca@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
