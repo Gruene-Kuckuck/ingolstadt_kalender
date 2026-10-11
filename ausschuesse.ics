@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Verwaltungsrat der VGI AöR (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T100000
 DTEND;VALUE=DATE-TIME:20261013T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:d95d0cf56b181124310ea35e034532c1@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -17,7 +17,7 @@ SUMMARY:Verbandsversammlung des Zweckverbandes Verkehrsverbund Großraum I
  ngolstadt (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T100000
 DTEND;VALUE=DATE-TIME:20261013T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:3c4bd3e45c82a29d971066ef6a403640@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Ausschuss für Kultur und Bildung (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T160000
 DTEND;VALUE=DATE-TIME:20261013T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:6b338ce50b3ddd727b6578764ec11bff@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -36,7 +36,7 @@ SUMMARY:Zweckverband Müllverwertungsanlage Region Ingolstadt\, Verbandsau
  sschuss (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261014T093000
 DTEND;VALUE=DATE-TIME:20261014T113000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:a6d172fac4da7f23097aa83bff7b8dcf@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -45,7 +45,7 @@ SUMMARY:Ausschuss für Stadtentwicklung\, Bau\, Umwelt und Nachhaltigkeit
  (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261015T160000
 DTEND;VALUE=DATE-TIME:20261015T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:3149440b0f2c6e02485675b5ec78b898@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Jugendparlament (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261016T173000
 DTEND;VALUE=DATE-TIME:20261016T193000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:71a7610abbdedca2cdd63d440339dbb4@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -64,7 +64,7 @@ SUMMARY:Verwaltungsrat der IFG Ingolstadt AöR (öffentlich/nicht öffentl
  ich)
 DTSTART;VALUE=DATE-TIME:20261019T160000
 DTEND;VALUE=DATE-TIME:20261019T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:438b9eaa34593176db301c7e66444fa0@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -74,7 +74,7 @@ SUMMARY:Aufsichtsrat der Gemeinnützigen Wohnungsbaugesellschaft Ingolstad
  t GmbH (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261021T090000
 DTEND;VALUE=DATE-TIME:20261021T110000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:c271c544313c0c61adced2f9413314d6@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Gemeinschaftsraum des Bürogebäudes\, Minucciweg 4
@@ -84,7 +84,7 @@ SUMMARY:Ausschuss für Sport\, Veranstaltungen und Freizeit (öffentlich/n
  icht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261006T160000
 DTEND;VALUE=DATE-TIME:20261006T180700
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:7ea42b067c2354558e64e7066baf3c4c@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -94,7 +94,7 @@ SUMMARY:Aufsichtsrat der Digitales Gründerzentrum der Region Ingolstadt G
  mbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261007T170000
 DTEND;VALUE=DATE-TIME:20261007T190000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:d8616ce01cf83ce7ebe4b05576172141@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Runden Tisches Fahrrad (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261007T170000
 DTEND;VALUE=DATE-TIME:20261007T190000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:0de791851723a2d77cfb69328aa4c302@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -112,7 +112,7 @@ SUMMARY:Ausschuss für Soziales\, Gesundheit\, Stiftungen und Familien (ö
  ffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261008T160000
 DTEND;VALUE=DATE-TIME:20261008T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:9f1283325d63f273b0e6c3d3b512288c@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Aufsichtsrat der Klinikum Ingolstadt GmbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261021T140000
 DTEND;VALUE=DATE-TIME:20261021T160000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:cc5866abcac12706a8c46c11a7d39441@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -130,7 +130,7 @@ SUMMARY:Ausschuss für Finanzen und Personal (öffentlich/nicht öffentlic
  h)
 DTSTART;VALUE=DATE-TIME:20261022T160000
 DTEND;VALUE=DATE-TIME:20261022T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:0e5af1639cb9a21b8c55fb13ca6af0f7@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -140,7 +140,7 @@ SUMMARY:Kommission für Brand- und Katastrophenschutz sowie Rettungswesen
  (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261027T160000
 DTEND;VALUE=DATE-TIME:20261027T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:e29c2b7869caa941b23799ff36a101fa@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Kommission Quartiersentwicklung Piusviertel (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261028T173000
 DTEND;VALUE=DATE-TIME:20261028T193000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:85342488d4b828a4bcc4d44e6a1a7be2@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -158,7 +158,7 @@ SUMMARY:Zweckverband Müllverwertungsanlage Region Ingolstadt\, Verbandsve
  rsammlung (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T090000
 DTEND;VALUE=DATE-TIME:20261110T110000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:1be2db36a66bac4a8d1f05ffab1ce7dc@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Kommission Quartiersentwicklung Augustinviertel (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T173000
 DTEND;VALUE=DATE-TIME:20261110T193000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:0d0929d9ccfc46d0f246229b49f5d01f@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Kommission Quartiersentwicklung Konradviertel (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261111T170000
 DTEND;VALUE=DATE-TIME:20261111T190000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:e1834de8dd48a34e5af890eac06372f2@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Kommission für Seniorenarbeit (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261112T100000
 DTEND;VALUE=DATE-TIME:20261112T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:b93078fa7bf3e73c600f36b2116654c0@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Bürgerhaus Neuburger Kasten\, II. OG\, Seminarraum
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Jugendhilfeausschuss (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261112T160000
 DTEND;VALUE=DATE-TIME:20261112T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:e5889ecdc4f9365647aa7c0b0fee44b5@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Gestaltungs- und Planungsbeirates (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261113T120000
 DTEND;VALUE=DATE-TIME:20261113T140000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:f39068d2b2ccd07788597a137c0563fc@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Kulturbeirat (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261116T150000
 DTEND;VALUE=DATE-TIME:20261116T170000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:7d135f2cbe32257c4ae0b5048abe92bd@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -219,7 +219,7 @@ SUMMARY:Ausschuss für Sport\, Veranstaltungen und Freizeit (öffentlich/n
  icht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261117T160000
 DTEND;VALUE=DATE-TIME:20261117T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:75d1fcf3b21f67e8cc186a53e2329ee7@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -229,7 +229,7 @@ SUMMARY:Ausschuss für Soziales\, Gesundheit\, Stiftungen und Familien (ö
  ffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261119T160000
 DTEND;VALUE=DATE-TIME:20261119T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:7e4add69c4fe0421bef628f5c3479939@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Ausschuss für Kultur und Bildung (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261124T160000
 DTEND;VALUE=DATE-TIME:20261124T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:bb62c73d2d0cc636fca430809785b8a7@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Bürgerversammlung XII - Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261124T183000
 DTEND;VALUE=DATE-TIME:20261124T203000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:0db97cd49181a9b053684b2e98470e03@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 SUMMARY:Inklusionsrat (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261125T160000
 DTEND;VALUE=DATE-TIME:20261125T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:d294632589303106eeadad0c72bf9c95@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -264,7 +264,7 @@ SUMMARY:Aufsichtsrat der Digitales Gründerzentrum der Region Ingolstadt G
  mbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261125T170000
 DTEND;VALUE=DATE-TIME:20261125T190000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:42263a06e22d9a995354f56749cde8a8@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -273,7 +273,7 @@ SUMMARY:Aufsichtsrat der Stadtbus Ingolstadt GmbH (öffentlich/nicht öffe
  ntlich)
 DTSTART;VALUE=DATE-TIME:20261126T130000
 DTEND;VALUE=DATE-TIME:20261126T150000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:e830999aa3d5fe9363777b28c226b72d@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -282,7 +282,7 @@ SUMMARY:Ausschuss für Stadtentwicklung\, Bau\, Umwelt und Nachhaltigkeit
  (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261126T160000
 DTEND;VALUE=DATE-TIME:20261126T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:4da1ada6c159855eb7790e283ab618d0@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -292,7 +292,7 @@ SUMMARY:Aufsichtsrat der Stadtwerke Ingolstadt Beteiligungen GmbH (nicht
  öffentlich)
 DTSTART;VALUE=DATE-TIME:20261127T093000
 DTEND;VALUE=DATE-TIME:20261127T113000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:142f191e25b0eba175a8c17cb65d28d5@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -301,7 +301,7 @@ SUMMARY:Verwaltungsrat der IFG Ingolstadt AöR (öffentlich/nicht öffentl
  ich)
 DTSTART;VALUE=DATE-TIME:20261130T150000
 DTEND;VALUE=DATE-TIME:20261130T170000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:9cda39c4beb68ed4cbc8c70439267da5@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -311,7 +311,7 @@ SUMMARY:Verbandsversammlung des Zweckverbandes Verkehrsverbund Großraum I
  ngolstadt (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261201T100000
 DTEND;VALUE=DATE-TIME:20261201T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:b1b094a6a2a164eb84e879a5acbb9e0b@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Verwaltungsrat der VGI AöR (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261201T100000
 DTEND;VALUE=DATE-TIME:20261201T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:f0072db36630c5b5a6b6fa55ff3c69f3@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Aufsichtsrat der Klinikum Ingolstadt GmbH (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261201T140000
 DTEND;VALUE=DATE-TIME:20261201T160000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:2d0c96f40111a0c20fc09416fe189b35@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -337,7 +337,7 @@ SUMMARY:Verbandsversammlung des Krankenhauszweckverbandes (nicht öffentli
  ch)
 DTSTART;VALUE=DATE-TIME:20261201T153000
 DTEND;VALUE=DATE-TIME:20261201T173000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:02950b0ae33e5bdccf33b526f66eb80e@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -347,7 +347,7 @@ SUMMARY:Ausschuss für Finanzen und Personal (öffentlich/nicht öffentlic
  h)
 DTSTART;VALUE=DATE-TIME:20261203T160000
 DTEND;VALUE=DATE-TIME:20261203T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:66785a0893dfd549c60084c342dc650a@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -357,7 +357,7 @@ SUMMARY:Aufsichtsrat der COM-IN Telekommunikations GmbH (nicht öffentlich
  )
 DTSTART;VALUE=DATE-TIME:20261207T163000
 DTEND;VALUE=DATE-TIME:20261207T183000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:446df733a9a4526acaa5180fd40044ac@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Erni-Singerl-Straße 2 b\, 85053 Ingolstadt
@@ -367,7 +367,7 @@ SUMMARY:Verwaltungsrat des Kommunalunternehmens "Ingolstädter Kommunalbet
  riebe AÖR" (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261208T153000
 DTEND;VALUE=DATE-TIME:20261208T173000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:1b882c04f0e47e3aad8423499b2ed2f0@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -377,7 +377,7 @@ SUMMARY:Aufsichtsrat der Stadtwerke Ingolstadt Freizeitanlagen GmbH (öffe
  ntlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261208T170000
 DTEND;VALUE=DATE-TIME:20261208T190000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:2ff8d0ae694734e855c942bb3724cdd3@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:Stiftungsrat der Heilig-Geist-Spital-Stiftung (nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261209T100000
 DTEND;VALUE=DATE-TIME:20261209T120000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:5a5495f4fa4f2b4296f5d2bb1ba5cbe7@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -395,7 +395,7 @@ SUMMARY:Verwaltungsrat der Sparkasse Ingolstadt Eichstätt AöR (nicht öf
  fentlich)
 DTSTART;VALUE=DATE-TIME:20261209T150000
 DTEND;VALUE=DATE-TIME:20261209T170000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:d566b032d733b70028687e31bed20c7d@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Jugendparlament (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261211T173000
 DTEND;VALUE=DATE-TIME:20261211T193000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:88358ca0564686807bc4fc224e037daa@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 END:VEVENT
@@ -412,7 +412,7 @@ SUMMARY:Aufsichtsrat der Gemeinnützigen Wohnungsbaugesellschaft Ingolstad
  t GmbH (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261215T090000
 DTEND;VALUE=DATE-TIME:20261215T110000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:793b1f3dcaedd64f51445a00d72977af@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Gemeinschaftsraum des Bürogebäudes\, Minucciweg 4
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Jugendhilfeausschuss (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20270121T160000
 DTEND;VALUE=DATE-TIME:20270121T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:84288dc26a8cbf2b08f887eaf1647607@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -431,7 +431,7 @@ SUMMARY:Ausschuss für Sport\, Veranstaltungen und Freizeit (öffentlich/n
  icht öffentlich)
 DTSTART;VALUE=DATE-TIME:20270126T160000
 DTEND;VALUE=DATE-TIME:20270126T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:1af31d4cb37a28e55e2294ea9fb8c844@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -441,7 +441,7 @@ SUMMARY:Ausschuss für Soziales\, Gesundheit\, Stiftungen und Familien (ö
  ffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20270128T160000
 DTEND;VALUE=DATE-TIME:20270128T180000
-DTSTAMP;VALUE=DATE-TIME:20261010T050008Z
+DTSTAMP;VALUE=DATE-TIME:20261011T050007Z
 UID:4d449a1d0e685359e65620041b10c041@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
