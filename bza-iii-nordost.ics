@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss III-Nordost (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss III-Nordost (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261110T193000
+DTEND;VALUE=DATE-TIME:20261110T213000
+DTSTAMP;VALUE=DATE-TIME:20261013T050017Z
+UID:75536ed99cbad05028ca5a98c1941f8c@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+END:VEVENT
+END:VCALENDAR
