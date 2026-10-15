@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss V-Südwest (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss V-Südwest (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261027T193000
+DTEND;VALUE=DATE-TIME:20261027T213000
+DTSTAMP;VALUE=DATE-TIME:20261015T050023Z
+UID:f9d32dc34c236ac3aace007b19783659@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Jugendheim Hundszell\, Klausenweg\, 85051 Ingolstadt
+END:VEVENT
+END:VCALENDAR
