@@ -5,9 +5,19 @@ X-WR-CALNAME:Bezirksausschuss XII-Münchener Straße (Ingolstadt)
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261110T193000
+DTEND;VALUE=DATE-TIME:20261110T213000
+DTSTAMP;VALUE=DATE-TIME:20261031T050031Z
+UID:6404dd2b488c0a71ec6c99f64fe458ea@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Pfarrsaal St. Salvator\, Münchener Straße 244\, 85051 Ingolstad
+ t
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261013T193000
 DTEND;VALUE=DATE-TIME:20261013T213000
-DTSTAMP;VALUE=DATE-TIME:20261030T050033Z
+DTSTAMP;VALUE=DATE-TIME:20261031T050031Z
 UID:f407eaee340cb353e1da4a6d906babf7@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
