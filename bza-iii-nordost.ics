@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss III-Nordost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
 DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261031T050020Z
+DTSTAMP;VALUE=DATE-TIME:20261101T050018Z
 UID:75536ed99cbad05028ca5a98c1941f8c@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Aula der Grundschule G.E.Lessing\, Unterer Taubentalweg 26\, 8505
