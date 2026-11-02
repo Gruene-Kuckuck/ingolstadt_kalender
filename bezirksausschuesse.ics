@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss III-Nordost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
 DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261101T050014Z
+DTSTAMP;VALUE=DATE-TIME:20261102T050014Z
 UID:75536ed99cbad05028ca5a98c1941f8c@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Aula der Grundschule G.E.Lessing\, Unterer Taubentalweg 26\, 8505
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
 DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261101T050014Z
+DTSTAMP;VALUE=DATE-TIME:20261102T050014Z
 UID:6404dd2b488c0a71ec6c99f64fe458ea@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Pfarrsaal St. Salvator\, Münchener Straße 244\, 85051 Ingolstad
@@ -26,14 +26,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss II-Nordwest (öffentlich)
 DTSTART;VALUE=DATE:20261118
-DTSTAMP;VALUE=DATE-TIME:20261101T050014Z
+DTSTAMP;VALUE=DATE-TIME:20261102T050014Z
 UID:79cc3c115fed9589afe7e18a0416bf6d@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE:20261208
-DTSTAMP;VALUE=DATE-TIME:20261101T050014Z
+DTSTAMP;VALUE=DATE-TIME:20261102T050014Z
 UID:3e4719832b65b95341d8ac176e4e58ca@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss IV-Südost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261217T170400
 DTEND;VALUE=DATE-TIME:20261217T190400
-DTSTAMP;VALUE=DATE-TIME:20261101T050014Z
+DTSTAMP;VALUE=DATE-TIME:20261102T050014Z
 UID:e0b6c10bc40ee02f36c291807e275695@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
