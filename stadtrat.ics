@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Sondersitzung des Stadtrates (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261113T140000
 DTEND;VALUE=DATE-TIME:20261113T160000
-DTSTAMP;VALUE=DATE-TIME:20261104T050006Z
+DTSTAMP;VALUE=DATE-TIME:20261105T050006Z
 UID:11e2c2a8e3f6072c07e970a8b048779d@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtrat (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20261210T100000
 DTEND;VALUE=DATE-TIME:20261210T120000
-DTSTAMP;VALUE=DATE-TIME:20261104T050006Z
+DTSTAMP;VALUE=DATE-TIME:20261105T050006Z
 UID:0f03c0340459a13c45dbf7f67d1448f5@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtrat (öffentlich/nicht öffentlich)
 DTSTART;VALUE=DATE-TIME:20270223T130000
 DTEND;VALUE=DATE-TIME:20270223T150000
-DTSTAMP;VALUE=DATE-TIME:20261104T050006Z
+DTSTAMP;VALUE=DATE-TIME:20261105T050006Z
 UID:28d6c051e5d699f24c83e6972ca22a0b@ratsinfo-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnet/info.php
 LOCATION:Ingolstadt\,  Neues Rathaus\, Großer Sitzungssaal\, II. OG
