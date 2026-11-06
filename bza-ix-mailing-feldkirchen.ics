@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss IX-Mailing/Feldkirchen (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss IX-Mailing/Feldkirchen (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261117T200000
+DTEND;VALUE=DATE-TIME:20261117T220000
+DTSTAMP;VALUE=DATE-TIME:20261106T050021Z
+UID:6abbc752778731f7348be28dc80815a2@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Sportheim Mailing\, Am Himmelreich 15\, 85055 Ingolstadt
+END:VEVENT
+END:VCALENDAR
