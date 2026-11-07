@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Termine Ingolstadt//DE
+X-WR-CALNAME:Bezirksausschuss VIII-Oberhaunstadt (Ingolstadt)
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss VIII-Oberhaunstadt (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261119T190000
+DTEND;VALUE=DATE-TIME:20261119T210000
+DTSTAMP;VALUE=DATE-TIME:20261107T050024Z
+UID:7dbe54fd326214efebdc43a78f9585b0@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Gastwirtschaft Kastaniengarten\, Gutsstraße 4\, 85055 Ingolstadt
+END:VEVENT
+END:VCALENDAR
