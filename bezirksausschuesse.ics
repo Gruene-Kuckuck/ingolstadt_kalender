@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss III-Nordost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
 DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:75536ed99cbad05028ca5a98c1941f8c@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Aula der Grundschule G.E.Lessing\, Unterer Taubentalweg 26\, 8505
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
 DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:6404dd2b488c0a71ec6c99f64fe458ea@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Pfarrsaal St. Salvator\, Münchener Straße 244\, 85051 Ingolstad
@@ -27,23 +27,26 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss IX-Mailing/Feldkirchen (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261117T200000
 DTEND;VALUE=DATE-TIME:20261117T220000
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:6abbc752778731f7348be28dc80815a2@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Sportheim Mailing\, Am Himmelreich 15\, 85055 Ingolstadt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss II-Nordwest (öffentlich)
-DTSTART;VALUE=DATE:20261118
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
-UID:79cc3c115fed9589afe7e18a0416bf6d@bezirksausschuesse-ingolstadt
+DTSTART;VALUE=DATE-TIME:20261118T183000
+DTEND;VALUE=DATE-TIME:20261118T203000
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
+UID:7d3175817cdc037ca1ea79389691c2a2@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Stadtteiltreff Piusviertel\, Pfitznerstraße 19a\, 85057 Ingolsta
+ dt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss VIII-Oberhaunstadt (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261119T190000
 DTEND;VALUE=DATE-TIME:20261119T210000
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:7dbe54fd326214efebdc43a78f9585b0@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 LOCATION:Gastwirtschaft Kastaniengarten\, Gutsstraße 4\, 85055 Ingolstadt
@@ -51,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XI-Friedrichshofen/Hollerstauden (öffentlich)
 DTSTART;VALUE=DATE:20261208
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:3e4719832b65b95341d8ac176e4e58ca@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
@@ -59,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Bezirksausschuss IV-Südost (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261217T170400
 DTEND;VALUE=DATE-TIME:20261217T190400
-DTSTAMP;VALUE=DATE-TIME:20261109T050015Z
+DTSTAMP;VALUE=DATE-TIME:20261110T050016Z
 UID:e0b6c10bc40ee02f36c291807e275695@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
