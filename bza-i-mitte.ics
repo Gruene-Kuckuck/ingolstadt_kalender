@@ -6,7 +6,7 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss I-Mitte (öffentlich)
 DTSTART;VALUE=DATE:20261201
-DTSTAMP;VALUE=DATE-TIME:20261112T050016Z
+DTSTAMP;VALUE=DATE-TIME:20261113T050017Z
 UID:422d3800ffd65378dadc76a763ee78d7@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
