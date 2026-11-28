@@ -5,9 +5,18 @@ X-WR-CALNAME:Bezirksausschuss XII-Münchener Straße (Ingolstadt)
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
+DTSTART;VALUE=DATE-TIME:20261208T193000
+DTEND;VALUE=DATE-TIME:20261208T213000
+DTSTAMP;VALUE=DATE-TIME:20261128T050031Z
+UID:6e1541d3dfb8d3e1d928884f7683fc61@bezirksausschuesse-ingolstadt
+DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
+LOCATION:Gaststätte Peterwirt\, Dorfstraße 2\, 85051 Ingolstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezirksausschuss XII-Münchener Straße (öffentlich)
 DTSTART;VALUE=DATE-TIME:20261110T193000
-DTEND;VALUE=DATE-TIME:20261110T213000
-DTSTAMP;VALUE=DATE-TIME:20261127T050030Z
+DTEND;VALUE=DATE-TIME:20261110T204500
+DTSTAMP;VALUE=DATE-TIME:20261128T050031Z
 UID:6404dd2b488c0a71ec6c99f64fe458ea@bezirksausschuesse-ingolstadt
 DESCRIPTION:Quelle: https://www.ingolstadt.de/sessionnetbza/info.php
 END:VEVENT
